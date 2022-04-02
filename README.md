@@ -1,2 +1,2 @@
 # SAP
-SAP Fiori Related R&amp;D + Exploration
+SAP Related R&amp;D + Exploration
